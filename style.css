@@ -1,0 +1,63 @@
+#up-links{
+    margin: 0;
+    padding-left: 40px; 
+    display: flex;
+    text-size-adjust: 2cm;
+    
+}
+.up{
+    background-color: rgb(247, 247, 183);
+    height: 1cm;
+    width: 1350px;
+}
+li,a{
+    margin: 1cm;
+    margin-top: 0.3cm;
+    text-decoration: none;
+    list-style-type: none;
+    font-size: large;
+    font-weight: bold;
+}
+#frontheading{
+    color: red;
+    text-align: center;
+}
+#frontImage{
+    width: 1350px;
+    height: 850px;
+
+    
+}
+#Events{
+    width: 670px;
+    height: 400px;
+}
+.paragraph {
+    text-align: center;
+    font-weight: bold;
+
+}
+#p2{
+    text-align: center;
+    font-size: 0.7cm;
+}
+#aboutus{
+    background-color: beige;
+}
+#button{
+    color:black;
+    background-color: rgb(238, 238, 72);
+    text-align: center;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    display:flex;
+    size: 4cm;
+}
+#ty{
+ display: flex;
+ gap: 3;
+ justify-content: space-between;
+}
+#h1{
+    text-align: center;
+}
